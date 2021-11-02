@@ -1,4 +1,4 @@
-# @metamask/contract-metadata
+# @FormLess-Games/contract-metadata
 
 A mapping of checksummed Ethereum contract addresses to metadata, like names, and images of their logos.
 
