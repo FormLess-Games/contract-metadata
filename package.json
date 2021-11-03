@@ -1,10 +1,10 @@
 {
-  "name": "@metamask/contract-metadata",
-  "version": "1.30.0",
+  "name": "@formless_official/polygon-contract-metadata",
+  "version": "1.0.0",
+  "private": false,
   "description": "A mapping of ethereum contract addresses to broadly accepted icons for those addresses.",
   "main": "index.js",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
   "engines": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/MetaMask/contract-metadata.git"
+    "url": "git+ssh://git@github.com:FormLess-Games/contract-metadata.git"
   },
   "keywords": [
     "ethereum",
@@ -25,9 +25,9 @@
   "author": "Dan Finlay <dan@danfinlay.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MetaMask/contract-metadata/issues"
+    "url": "https://github.com/FormLess-Games/contract-metadata/issues"
   },
-  "homepage": "https://github.com/MetaMask/contract-metadata#readme",
+  "homepage": "https://github.com/FormLess-Games/contract-metadata#readme",
   "files": [
     "index.js",
     "contract-map.json",

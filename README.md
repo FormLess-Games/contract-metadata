@@ -1,4 +1,4 @@
-# @FormLess-Games/contract-metadata
+# @formless_official/polygon-contract-metadata
 
 A mapping of checksummed Ethereum contract addresses to metadata, like names, and images of their logos.
 
@@ -8,10 +8,10 @@ This repository is effectively frozen. We recommend that developers of new token
 
 ## Usage
 
-You can install from npm with `npm install @metamask/contract-metadata` and use it in your code like this:
+You can install from npm with `npm install @formless_official/polygon-contract-metadata` and use it in your code like this:
 
 ```javascript
-import contractMap from '@metamask/contract-metadata'
+import contractMap from '@formless_official/polygon-contract-metadata'
 import ethJSUtil from 'ethereumjs-util'
 const { toChecksumAddress } = ethJSUtil
 
