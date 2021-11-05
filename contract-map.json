@@ -1,143 +1,1675 @@
-
 {
-  "0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3": {
-    "name": "BNB",
-    "logo": "https://polygonscan.com/token/images/bnb_28_2.png",
-    "erc20": true,
-    "symbol": "BNB",
-    "decimals": 18
+  "0xdab529f40e671a1d4bf91361c21bf9f0c9712ab7": {
+    "name": "binance-usd",
+    "logo": "https://polygonscan.com/token/images/binanceusd_32.png",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "erc20": true
   },
-  "0xc2132d05d31c914a87c6611c10748aeb04b58e8f": {
-    "name": "(PoS) Tether USD",
-    "logo": "https://polygonscan.com/token/images/tether_32.png",
-    "erc20": true,
-    "symbol": "USDT",
-    "decimals": 6
-  },
-  "0x2791bca1f2de4661ed88a30c99a7a9449aa84174": {
-    "name": "USD Coin (PoS)",
-    "logo": "https://polygonscan.com/token/images/centre-usdc_32.png",
-    "erc20": true,
-    "symbol": "USDC",
-    "decimals": 6
-  },
-  "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39": {
-    "name": "ChainLink Token",
-    "logo": "https://polygonscan.com/token/images/chainlinktoken_32.png?v=6",
-    "erc20": true,
-    "symbol": "LINK",
-    "decimals": 18
+  "0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f": {
+    "name": "1INCH Token",
+    "logo": "https://polygonscan.com/token/images/1inch_32.png",
+    "symbol": "1INCH",
+    "decimals": 18,
+    "erc20": true
   },
   "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6": {
     "name": "(PoS) Wrapped BTC",
     "logo": "https://polygonscan.com/token/images/wBTC_32.png",
-    "erc20": true,
     "symbol": "WBTC",
-    "decimals": 8
-  },
-  "0xb33eaad8d922b1083446dc23f610c2567fb5180f": {
-    "name": "Uniswap (PoS)",
-    "logo": "https://polygonscan.com/token/images/uniswap_32.png",
-    "erc20": true,
-    "symbol": "UNI",
-    "decimals": 18
-  },
-  "0xdab529f40e671a1d4bf91361c21bf9f0c9712ab7": {
-    "name": "binance-usd",
-    "logo": "https://polygonscan.com/token/images/binanceusd_32.png",
-    "erc20": true,
-    "symbol": "BUSD",
-    "decimals": 18
-  },
-  "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063": {
-    "name": "(PoS) Dai Stablecoin",
-    "logo": "https://polygonscan.com/token/images/mcdDai_32.png",
-    "erc20": true,
-    "symbol": "DAI",
-    "decimals": 18
-  },
-  "0xb46e0ae620efd98516f49bb00263317096c114b2": {
-    "name": "Theta Token (PoS)",
-    "logo": "https://polygonscan.com/token/images/theta_28.png",
-    "erc20": true,
-    "symbol": "THETA",
-    "decimals": 18
+    "decimals": 8,
+    "erc20": true
   },
   "0xc9c1c1c20b3658f8787cc2fd702267791f224ce1": {
     "name": "Fantom Token",
     "logo": "https://polygonscan.com/token/images/fantomtoken_32.png",
-    "erc20": true,
     "symbol": "FTM",
-    "decimals": 18
+    "decimals": 18,
+    "erc20": true
   },
-   "0xada58df0f643d959c2a47c9d4d4c1a4defe3f11c": {
-        "name": "Cryptokek.com",
-        "logo": "https://polygonscan.com/token/images/cro_32.png",
-        "erc20": true,
-        "symbol": "CRO",
-        "decimals": 8
-      },
-      "0x5fe2b58c013d7601147dcdd68c143a77499f5531": {
-        "name": "Graph Token",
-        "logo": "https://polygonscan.com/token/images/TheGraph_32.png",
-        "erc20": true,
-        "symbol": "GRT",
-        "decimals": 18
-      },
-      "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4": {
-        "name": "Decentraland",
-        "logo": "https://polygonscan.com/token/images/decentraland_32.png",
-        "erc20": true,
-        "symbol": "MANA",
-        "decimals": 18
-      },
-      "0xd6df932a45c0f255f85145f286ea0b292b21c90b": {
-        "name": "Aave (PoS)",
-        "logo": "https://polygonscan.com/token/images/aave_32.png",
-        "erc20": true,
-        "symbol": "AAVE",
-        "decimals": 18
-      },
-      "0x06d02e9d62a13fc76bb229373fb3bbbd1101d2fc": {
-        "name": "Bitfinex LEO Token",
-        "logo": "https://polygonscan.com/token/images/leo_28_2.png",
-        "erc20": true,
-        "symbol": "LEO",
-        "decimals": 18
-      },
-     "0x692597b009d13c4049a947cab2239b7d6517875f": {
-        "name": "Wrapped UST Token",
-        "logo": "https://polygonscan.com/token/images/terra-ust_32.png",
-        "erc20": true,
-        "symbol": "UST",
-        "decimals": 18
-      },
-     "0x7ec26842f195c852fa843bb9f6d8b583a274a157": {
-        "name": "EnjinCoin",
-        "logo": "https://polygonscan.com/token/images/enjin_28_2.png",
-        "erc20": true,
-        "symbol": "ENJ",
-        "decimals": 18
-      },
-     "0xf1938ce12400f9a761084e7a80d37e732a4da056": {
-        "name": "chiliZ",
-        "logo": "https://polygonscan.com/token/images/chiliz_28.png?v=2",
-        "erc20": true,
-        "symbol": "CHZ",
-        "decimals": 18
-      },
-     "0x0c51f415cf478f8d08c246a6c6ee180c5dc3a012": {
-        "name": "HoloToken",
-        "logo": "https://polygonscan.com/token/images/holo_28.png",
-        "erc20": true,
-        "symbol": "HOT",
-        "decimals": 18
-      },
-    "0xc6d54d2f624bc83815b49d9c2203b1330b841ca0": {
-        "name": "SAND",
-        "logo": "https://polygonscan.com/token/images/sand_32.png",
-        "erc20": true,
-        "symbol": "SAND",
-        "decimals": 18
-      }
+  "0x62414d03084eeb269e18c970a21f45d2967f0170": {
+    "name": "OMG Network",
+    "logo": "https://polygonscan.com/token/images/OMGNetwork_32.png",
+    "symbol": "OMG",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xada58df0f643d959c2a47c9d4d4c1a4defe3f11c": {
+    "name": "Crypto.com Coin",
+    "logo": "https://polygonscan.com/token/images/cro_32.png",
+    "decimals": 8,
+    "symbol": "CRO",
+    "erc20": true
+  },
+  "0x3066818837c5e6ed6601bd5a91b0762877a6b731": {
+    "name": "UMA Voting Token v1",
+    "logo": "https://polygonscan.com/token/images/umavotingtokenv1_32.png",
+    "symbol": "UMA",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e": {
+    "name": "Nexo",
+    "logo": "https://polygonscan.com/token/images/nexo_32.png",
+    "symbol": "NEXO",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xfad65eb62a97ff5ed91b23afd039956aaca6e93b": {
+    "name": "HuobiToken",
+    "logo": "https://polygonscan.com/token/images/huobi_28.png",
+    "symbol": "HT",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xc2132d05d31c914a87c6611c10748aeb04b58e8f": {
+    "name": "(PoS) Tether USD",
+    "logo": "https://polygonscan.com/token/images/tether_32.png",
+    "decimals": 6,
+    "symbol": "USDT",
+    "erc20": true
+  },
+  "0xc26d47d5c33ac71ac5cf9f776d63ba292a4f7842": {
+    "name": "Bancor",
+    "logo": "https://polygonscan.com/token/images/bancor_32.png",
+    "symbol": "BNT",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x2e1ad108ff1d8c782fcbbb89aad783ac49586756": {
+    "name": "TrueUSD",
+    "logo": "https://polygonscan.com/token/images/trueusd_32.png",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xf6372cdb9c1d3674e83842e3800f2a62ac9f3c66": {
+    "name": "IoTeX Network",
+    "logo": "https://polygonscan.com/token/images/iotex_28.png",
+    "symbol": "IOTX",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xb46e0ae620efd98516f49bb00263317096c114b2": {
+    "name": "Theta Token (PoS)",
+    "logo": "https://polygonscan.com/token/images/theta_28.png",
+    "symbol": "THETA",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x84e1670f61347cdaed56dcc736fb990fbb47ddc1": {
+    "name": "LoopringCoin V2",
+    "logo": "https://polygonscan.com/token/images/lrc_32.png",
+    "symbol": "LRC",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x06d02e9d62a13fc76bb229373fb3bbbd1101d2fc": {
+    "name": "Bitfinex LEO Token",
+    "logo": "https://polygonscan.com/token/images/leo_28_2.png",
+    "symbol": "LEO",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619": {
+    "name": "Wrapped Ether",
+    "logo": "https://polygonscan.com/token/images/wETH_32.png",
+    "symbol": "WETH",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32": {
+    "name": "Telcoin",
+    "logo": "https://polygonscan.com/token/images/telcoin_28.png",
+    "decimals": 2,
+    "symbol": "TEL",
+    "erc20": true
+  },
+  "0xb33eaad8d922b1083446dc23f610c2567fb5180f": {
+    "name": "Uniswap (PoS)",
+    "logo": "https://polygonscan.com/token/images/uniswap_32.png",
+    "symbol": "UNI",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c": {
+    "name": "(PoS) Compound",
+    "logo": "https://polygonscan.com/token/images/comp_32.png",
+    "symbol": "COMP",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xd85d1e945766fea5eda9103f918bd915fbca63e6": {
+    "name": "Celsius",
+    "logo": "https://polygonscan.com/token/images/celsiustoken_32.png",
+    "decimals": 4,
+    "symbol": "CEL",
+    "erc20": true
+  },
+  "0x0c51f415cf478f8d08c246a6c6ee180c5dc3a012": {
+    "name": "HoloToken",
+    "logo": "https://polygonscan.com/token/images/holo_28.png",
+    "symbol": "HOT",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x2791bca1f2de4661ed88a30c99a7a9449aa84174": {
+    "name": "USD Coin (PoS)",
+    "logo": "https://polygonscan.com/token/images/centre-usdc_32.png",
+    "decimals": 6,
+    "symbol": "USDC",
+    "erc20": true
+  },
+  "0x6f3b3286fd86d8b47ec737ceb3d0d354cc657b3e": {
+    "name": "Paxos Standard",
+    "logo": "https://polygonscan.com/token/images/paxos_28_2.png",
+    "symbol": "PAX",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x7205705771547cf79201111b4bd8aaf29467b9ec": {
+    "name": "Rocket Pool",
+    "logo": "https://polygonscan.com/token/images/Rocketpool_32.png",
+    "symbol": "RPL",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xf1938ce12400f9a761084e7a80d37e732a4da056": {
+    "name": "chiliZ",
+    "logo": "https://polygonscan.com/token/images/chiliz_28.png",
+    "symbol": "CHZ",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063": {
+    "name": "(PoS) Dai Stablecoin",
+    "logo": "https://polygonscan.com/token/images/mcdDai_32.png",
+    "symbol": "DAI",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x50b728d8d964fd00c2d0aad81718b71311fef68a": {
+    "name": "Synthetix Network Token (PoS)",
+    "logo": "https://polygonscan.com/token/images/synthetix-snx_32.png",
+    "symbol": "SNX",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x172370d5cd63279efa6d502dab29171933a610af": {
+    "name": "CRV (PoS)",
+    "logo": "https://polygonscan.com/token/images/curvefi-crv_32.png",
+    "symbol": "CRV",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xda537104d6a5edd53c6fbba9a898708e465260b6": {
+    "name": "(PoS) yearn.finance",
+    "logo": "https://polygonscan.com/token/images/yearn-yfi_32.png",
+    "symbol": "YFI",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x5ffd62d3c3ee2e81c00a7b9079fb248e7df024a8": {
+    "name": "Gnosis",
+    "logo": "https://polygonscan.com/token/images/gnosans_32.png",
+    "symbol": "GNO",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xc6d54d2f624bc83815b49d9c2203b1330b841ca0": {
+    "name": "SAND",
+    "logo": "https://polygonscan.com/token/images/sand_32.png",
+    "symbol": "SAND",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x3cef98bb43d732e2f285ee605a8158cde967d219": {
+    "name": "BAT",
+    "logo": "https://polygonscan.com/token/images/bat.png",
+    "symbol": "BAT",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4": {
+    "name": "Decentraland",
+    "logo": "https://polygonscan.com/token/images/decentraland_32.png",
+    "symbol": "MANA",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x3962f4a0a0051dcce0be73a7e09cef5756736712": {
+    "name": "Livepeer Token",
+    "logo": "https://polygonscan.com/token/images/livepeer_28.png",
+    "symbol": "LPT",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xdbf31df14b66535af65aac99c32e9ea844e14501": {
+    "name": "renBTC",
+    "logo": "https://polygonscan.com/token/images/renbtcpoly_32.png",
+    "decimals": 8,
+    "symbol": "renBTC",
+    "erc20": true
+  },
+  "0xd6df932a45c0f255f85145f286ea0b292b21c90b": {
+    "name": "Aave (PoS)",
+    "logo": "https://polygonscan.com/token/images/aave_32.png",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x5559edb74751a0ede9dea4dc23aee72cca6be3d5": {
+    "name": "ZRX",
+    "symbol": "ZRX",
+    "decimals": 18,
+    "logo": "https://polygonscan.com/token/images/zrx_28.png",
+    "erc20": true
+  },
+"0x5fe2b58c013d7601147dcdd68c143a77499f5531": {
+    "name": "Graph Token",
+    "logo": "https://polygonscan.com/token/images/TheGraph_32.png",
+    "symbol": "GRT",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x1a3acf6d19267e2d3e7f898f42803e90c9219062": {
+    "name": "Frax Share",
+    "logo": "https://polygonscan.com/token/images/fraxshare_32_2.png",
+    "symbol": "FXS",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x692597b009d13c4049a947cab2239b7d6517875f": {
+    "name": "Wrapped UST Token",
+    "logo": "https://polygonscan.com/token/images/terra-ust_32.png",
+    "symbol": "UST",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39": {
+    "name": "ChainLink Token",
+    "logo": "https://polygonscan.com/token/images/chainlinktoken_32.png",
+    "symbol": "LINK",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x7ec26842f195c852fa843bb9f6d8b583a274a157":{
+    "name": "EnjinCoin",
+    "logo": "https://polygonscan.com/token/images/enjin_28_2.png",
+    "symbol": "ENJ",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xe0339c80ffde91f3e20494df88d4206d86024cdf":{
+    "name": "Dogelon",
+    "logo": "https://polygonscan.com/token/images/dogelon_32.png",
+    "symbol": "ELON",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x6bf2eb299e51fc5df30dec81d9445dde70e3f185":{
+    "name": "Serum",
+    "logo": "https://polygonscan.com/token/images/serum_32.png",
+    "symbol": "SRM",
+    "decimals": 6,
+    "erc20": true
+  },
+  "0x0621d647cecbfb64b79e44302c1933cb4f27054d":{
+    "name": "Amp",
+    "logo": "https://polygonscan.com/token/images/amp_32.png?",
+    "symbol": "AMP",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a":{
+    "name": "SushiToken (PoS)",
+    "logo": "https://polygonscan.com/token/images/sushiswap-sushi_32.png",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x6f7C932e7684666C9fd1d44527765433e01fF61d":{
+    "name": "Maker",
+    "logo": "https://polygonscan.com/token/images/mkr-etherscan-35.png",
+    "symbol": "MKR",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3":{
+    "name": "BNB",
+    "logo": "https://polygonscan.com/token/images/bnb_28_2.png",
+    "symbol": "BNB",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89":{
+    "name": "Frax",
+    "logo": "https://polygonscan.com/token/images/frax_32.png",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xdf00c50a3dae240860f57b77508203b8d9593283": {
+    "name": "IceToken",
+    "logo": "https://polygonscan.com/token/images/popsiclefinance_32.png",
+    "symbol": "ICE",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xc8a94a3d3d2dabc3c1caffffdca6a7543c3e3e65": {
+    "name": "Gemini dollar",
+    "logo": "https://polygonscan.com/token/images/gemini_28.png",
+    "symbol": "GUSD",
+    "decimals": 2,
+    "erc20": true
+  },
+  "0xcb059c5573646047d6d88dddb87b745c18161d3b": {
+    "name": "Polymath",
+    "logo": "https://polygonscan.com/token/images/polymath_28.png",
+    "symbol": "POLY",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7": {
+    "name": "Aavegotchi GHST (PoS)",
+    "logo": "https://polygonscan.com/token/images/aavegotchighst_32.png",
+    "symbol": "GHST",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x614389eaae0a6821dc49062d56bda3d9d45fa2ff": {
+    "name": "Orbs",
+    "logo": "https://polygonscan.com/token/images/orbs_28.png",
+    "symbol": "ORBS",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xeb5c9e515629b725d3588a55e2a43964dcfde8ca": {
+    "name": "STAKE",
+    "logo": "https://polygonscan.com/token/images/stake_32.png",
+    "symbol": "STAKE",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x6abb753c1893194de4a83c6e8b4eadfc105fd5f5": {
+    "name": "Swipe",
+    "logo": "https://polygonscan.com/token/images/swipe_32.png",
+    "symbol": "SXP",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x7583feddbcefa813dc18259940f76a02710a8905": {
+    "name": "Fetch",
+    "logo": "https://polygonscan.com/token/images/fetch_32.png",
+    "symbol": "FET",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xc4e82ba0fe6763cbe5e9cbca0ba7cbd6f91c6018": {
+    "name": "Ankr Eth2 Reward Bearing Certificate",
+    "logo": "https://polygonscan.com/token/images/ankraetc_32.png",
+    "symbol": "aETHc",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x0b220b82f3ea3b7f6d9a1d8ab58930c064a2b5bf": {
+    "name": "Golem Network Token",
+    "logo": "https://polygonscan.com/token/images/golem-glm_32.png",
+    "symbol": "GLM",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xfbdd194376de19a88118e84e279b977f165d01b8": {
+    "name": "beefy.finance",
+    "logo": "https://polygonscan.com/token/images/beefy_32.png",
+    "symbol": "BIFI",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x54cfe73f2c7d0c4b62ab869b473f5512dc0944d2": {
+    "name": "bZx Protocol Token",
+    "logo": "https://polygonscan.com/token/images/bzxprotocoltoken_32.png",
+    "symbol": "BZRX",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3": {
+    "name": "Balancer",
+    "logo": "https://polygonscan.com/token/images/Balancer_32.png",
+    "symbol": "BAL",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x831753dd7087cac61ab5644b308642cc1c33dc13": {
+    "name": "Quickswap",
+    "logo": "https://polygonscan.com/token/images/quickswap_32.png",
+    "symbol": "QUICK",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x2a93172c8dccbfbc60a39d56183b7279a2f647b4": {
+    "name": "decentral.games",
+    "logo": "https://polygonscan.com/token/images/decentralgame_32.png",
+    "symbol": "$DG",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xa63beffd33ab3a2efd92a39a7d2361cee14ceba8": {
+    "name": "OriginToken",
+    "logo": "https://polygonscan.com/token/images/origintoken_28.png",
+    "symbol": "OGN",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x9880e3dda13c8e7d4804691a45160102d31f6060": {
+    "name": "Orchid",
+    "logo": "https://polygonscan.com/token/images/orchid_32.png",
+    "symbol": "OXT",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x4e8dc2149eac3f3def36b1c281ea466338249371": {
+    "name": "Injective Token",
+    "logo": "https://polygonscan.com/token/images/injective_32.png",
+    "symbol": "INJ",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x2088c47fc0c78356c622f79dba4cbe1ccfa84a91": {
+    "name": "HUSD",
+    "logo": "https://polygonscan.com/token/images/husd_32.png",
+    "symbol": "HUSD",
+    "decimals": 8,
+    "erc20": true
+  },
+  "0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7": {
+    "name": "Mask Network",
+    "logo": "https://polygonscan.com/token/images/mask_32.png",
+    "symbol": "MASK",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xe3322702bedaaed36cddab233360b939775ae5f1": {
+    "name": "Tellor Tributes",
+    "logo": "https://polygonscan.com/token/images/tellortributes_32.png",
+    "symbol": "TRB",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x9377eeb7419486fd4d485671d50baa4bf77c2222": {
+    "name": "Parsiq Token",
+    "logo": "https://polygonscan.com/token/images/parsiqtoken_32.png",
+    "symbol": "PRQ",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x66d7fdcc7403f18cae9b0e2e8385649d2acbc12a": {
+    "name": "ETH 2x Flexible Leverage Index",
+    "logo": "https://polygonscan.com/token/images/ETH2x-FLI_32.png",
+    "symbol": "ETH2x-FLI",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xf391f574c63d9b8764b7a1f56d6383762e07b75b": {
+    "name": "FEGtoken",
+    "logo": "https://polygonscan.com/token/images/fegtoken_32.png",
+    "symbol": "FEG",
+    "decimals": 9,
+    "erc20": true
+  },
+  "0x61299774020da444af134c82fa83e3810b309991": {
+    "name": "Render Token",
+    "logo": "https://polygonscan.com/token/images/render_32.png",
+    "symbol": "RNDR",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xe111178a87a3bff0c8d18decba5798827539ae99": {
+    "name": "STASIS EURS Token",
+    "logo": "https://polygonscan.com/token/images/statiseuro_28.png",
+    "symbol": "EURS",
+    "decimals": 2,
+    "erc20": true
+  },
+  "0x1b815d120b3ef02039ee11dc2d33de7aa4a8c603": {
+    "name": "Wootrade Network",
+    "logo": "https://polygonscan.com/token/images/wootradepoly_32.png",
+    "symbol": "WOO",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xe6e320b7bb22018d6ca1f4d8cea1365ef5d25ced": {
+    "name": "Litentry",
+    "logo": "https://polygonscan.com/token/images/litentry_32.png",
+    "symbol": "LIT",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x282d8efce846a88b159800bd4130ad77443fa1a1": {
+    "name": "Ocean Token",
+    "logo": "https://polygonscan.com/token/images/oceantoken_28.png",
+    "symbol": "OCEAN",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x43e4b063f96c33f0433863a927f5bad34bb4b03d": {
+    "name":"Energy Web Bridged",
+    "logo":"https://polygonscan.comhttps://polygonscan.com/token/images/energywebtokenbridged_32.png",
+    "symbol": "EWTB",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x91ca694d2b293f70fe722fba7d8a5259188959c3": {
+    "name": "Mainframe Token",
+    "logo": "https://polygonscan.com/token/images/mainframe_28.png",
+    "symbol": "MFT",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x5ecba59dacc1adc5bdea35f38a732823fc3de977": {
+    "name": "Ampleforth Governance",
+    "logo": "https://polygonscan.com/token/images/ampleforthgovernance_32.png",
+    "symbol": "FORTH",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xf81b4bec6ca8f9fe7be01ca734f55b2b6e03a7a0": {
+    "name": "Synth sUSD",
+    "logo": "https://polygonscan.com/token/images/SynthetixsUSD_32.png",
+    "symbol": "sUSD",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xd7ecf95cf7ef5256990beaf4ac895cd9e64cb947": {
+    "name": "pTokens BTC",
+    "logo": "https://polygonscan.com/token/images/ptokensbtc_32.png",
+    "symbol": "pBTC",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xb9638272ad6998708de56bbc0a290a1de534a578": {
+    "name": "Everipedia IQ (PoS)",
+    "logo": "https://polygonscan.com/token/images/everipedia_32.png",
+    "symbol": "IQ",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c": {
+    "name": "Kyber Network Crystal v2 (PoS)",
+    "logo": "https://polygonscan.com/token/images/kybernetwork2_32.png",
+    "symbol": "KNC",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xdb95f9188479575f3f718a245eca1b3bf74567ec": {
+    "name": "Gitcoin (PoS)",
+    "logo": "https://polygonscan.com/token/images/gitcoinGTC_32.png",
+    "symbol": "GTC",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x0df0f72ee0e5c9b7ca761ecec42754992b2da5bf": {
+    "name": "Automata (PoS)",
+    "logo": "https://polygonscan.com/token/images/automatanetwork_32.png",
+    "symbol": "ATA",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xbe662058e00849c3eef2ac9664f37fefdf2cdbfe": {
+    "name": "RLC",
+    "logo": "https://polygonscan.com/token/images/iexec_28.png",
+    "symbol": "RLC",
+    "decimals": 9,
+    "erc20": true
+  },
+  "0xd2507e7b5794179380673870d88b22f94da6abe0": {
+    "name": "XY Oracle",
+    "logo": "https://polygonscan.com/token/images/xyoracle_28_2.png",
+    "symbol": "XYO",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x190eb8a183d22a4bdf278c6791b152228857c033": {
+    "name": "SingularityNET Token",
+    "logo": "https://polygonscan.com/token/images/singularitynet_28.png",
+    "symbol": "AGIX",
+    "decimals": 8,
+    "erc20": true
+  },
+  "0x553d3d295e0f695b9228246232edf400ed3560b5": {
+    "name": "Paxos Gold",
+    "logo": "https://polygonscan.com/token/images/paxosgold_32.png",
+    "symbol": "PAXG",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x42f37a1296b2981f7c3caced84c5096b2eb0c72c": {
+    "name": "KEEP Token",
+    "logo": "https://polygonscan.com/token/images/keepnetwork_32.png",
+    "symbol": "KEEP",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x0aab8dc887d34f00d50e19aee48371a941390d14": {
+    "name": "PowerLedger",
+    "logo": "https://polygonscan.com/token/images/powerledger_28_2.png",
+    "symbol": "POWR",
+    "decimals": 6,
+    "erc20": true
+  },
+  "0x7fbc10850cae055b27039af31bd258430e714c62": {
+    "name": "UniBright",
+    "logo": "https://polygonscan.com/token/images/unibright_28.png",
+    "decimals": 8,
+    "symbol": "UBT",
+    "erc20": true
+  },
+  "0x67ce67ec4fcd4aca0fcb738dd080b2a21ff69d75": {
+    "name": "SwissBorg",
+    "logo": "https://polygonscan.com/token/images/swissborg_28_3.png",
+    "symbol": "CHSB",
+    "decimals": 8,
+    "erc20": true
+  },
+  "0xe8a51d0dd1b4525189dda2187f90ddf0932b5482": {
+    "name": "LCX",
+    "logo": "https://polygonscan.com/token/images/lcxtoken_28.png",
+    "symbol": "LCX",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xa8b1e0764f85f53dfe21760e8afe5446d82606ac": {
+    "name": "BandToken",
+    "logo": "https://polygonscan.com/token/images/bandtoken_32.png",
+    "symbol": "BAND",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x313d009888329c9d1cf4f75ca3f32566335bd604": {
+    "name": "EthLend",
+    "logo": "https://polygonscan.com/token/images/ethlend_28.png",
+    "symbol": "LEND",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x780053837ce2ceead2a90d9151aa21fc89ed49c2": {
+    "name": "Rarible",
+    "logo": "https://polygonscan.com/token/images/rarible_32.png",
+    "symbol": "RARI",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4": {
+    "symbol": "ROUTE",
+    "logo": "https://polygonscan.com/token/images/routerprotocol_32.png",
+    "name": "Token Route",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x5095cc6511b70e287bc525aa57afbc60eb73ac47": {
+    "symbol": "eRSDL",
+    "logo": "https://polygonscan.com/token/images/unfederalreserve_32.png",
+    "name": "Token UnFederalReserveToken",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x779b299ea455d35a44fe9bac48648be22c08dea2": {
+    "symbol": "STC",
+    "logo": "https://polygonscan.com/token/images/studentcoin_32.png",
+    "name": "Token Student Coin",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x48e3883233461c2ef4cb3fcf419d6db07fb86cea": {
+    "symbol": "SENT",
+    "logo": "https://polygonscan.com/token/images/sentinelgroup_28.png",
+    "name": "Token SENTinel",
+    "decimals": 8,
+    "erc20": true
+  },
+  "0xe2341718c6c0cbfa8e6686102dd8fbf4047a9e9b": {
+    "symbol": "AIOZ",
+    "logo": "https://polygonscan.com/token/images/aioznetwork_32.png",
+    "name": "Token AIOZ Network",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x7cef6ed1e07079e174601d39066ad0856cb47988": {
+    "symbol": "FREE",
+    "logo": "https://polygonscan.com/token/images/freecoin_28_2.png",
+    "name": "Token Free Coin",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97": {
+    "symbol": "DFYN",
+    "logo": "https://polygonscan.com/token/images/dfyn_32.png",
+    "name": "Token DFYN Token (PoS)",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x3d1d2afd191b165d140e3e8329e634665ffb0e5e": {
+    "symbol": "DERI",
+    "logo": "https://polygonscan.com/token/images/deriprotocol_32.png",
+    "name": "Token Deri",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xf2ae0038696774d65e67892c9d301c5f2cbbda58": {
+    "symbol": "CXO",
+    "logo": "https://polygonscan.com/token/images/cargox_28.png",
+    "name": "Token CargoX",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x8a953cfe442c5e8855cc6c61b1293fa648bae472": {
+    "symbol": "PolyDoge",
+    "logo": "https://polygonscan.com/token/images/polydoge_32.png",
+    "name": "Token PolyDoge",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x6ccbf3627b2c83afef05bf2f035e7f7b210fe30d": {
+    "symbol": "HOPR",
+    "logo": "https://polygonscan.com/token/images/hoprtoken_32.png",
+    "name": "Token HOPR Token",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x5de4005155933c0e1612ce808f12b4cd8daabc82": {
+    "symbol": "ARMOR",
+    "logo": "https://polygonscan.com/token/images/armor_32.png",
+    "name": "Token Armor",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x3a4bed49ab592a227bae8f41efd0d38e6e06d96c": {
+    "symbol": "CARD",
+    "logo": "https://polygonscan.com/token/images/cardstack_28.png",
+    "name": "Token Cardstack",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xab5f7a0e20b0d056aed4aa4528c78da45be7308b": {
+    "symbol": "GBYTE",
+    "logo": "https://polygonscan.com/token/images/obytepoly_32.png",
+    "name": "Token Imported GBYTE",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xf1c1a3c2481a3a8a3f173a9ab5ade275292a6fa3": {
+    "symbol": "VEE",
+    "logo": "https://polygonscan.com/token/images/blockv_32.png",
+    "name": "Token BLOCKv",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x6f934b45fc6043527d73c7c99313dd838e723db7": {
+    "symbol": "FCL",
+    "logo": "https://polygonscan.com/token/images/fractalprotocoltoken_32.png",
+    "name": "Token Fractal Protocol Token",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x9e7deba360c77949bb75d16dc81b2393c15005eb": {
+    "symbol": "LPOOL",
+    "logo": "https://polygonscan.com/token/images/launchpooltoken_32.png",
+    "name": "Token Launchpool token",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x23fe1ee2f536427b7e8ac02fb037a7f867037fe8": {
+    "symbol": "TORN",
+    "logo": "https://polygonscan.com/token/images/torn_32.png",
+    "name": "Token TORN Token",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xad93e067e149f0a5ecd12d8ea83b05581dd6374c": {
+    "symbol": "PNK",
+    "logo": "https://polygonscan.com/token/images/kelros_28.png",
+    "name": "Token Pinakion",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xdb725f82818de83e99f1dac22a9b5b51d3d04dd4": {
+    "symbol": "GET",
+    "logo": "https://polygonscan.com/token/images/gutstickets.png",
+    "name": "Token Guaranteed Entrance Token",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x2fe8733dcb25bfbba79292294347415417510067": {
+    "symbol": "XED",
+    "logo": "https://polygonscan.com/token/images/xed_32.png",
+    "name": "Token Exeedme (PoS)",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xc3ec80343d2bae2f8e680fdadde7c17e71e114ea": {
+    "symbol": "OM",
+    "logo": "https://polygonscan.com/token/images/mantradao_32.png",
+    "name": "Token MANTRA DAO",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x068180071617528606371c31892ecbf2b70ac1d2": {
+    "symbol": "SPI",
+    "logo": "https://polygonscan.com/token/images/shoppingiotoken2_32.png",
+    "name": "Token Shopping.io",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x07cc1cc3628cc1615120df781ef9fc8ec2feae09": {
+    "symbol": "BEPRO",
+    "logo": "https://polygonscan.com/token/images/bepronetwork_32.png",
+    "name": "Token BetProtocolToken",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xa3fa99a148fa48d14ed51d610c367c61876997f1": {
+    "symbol": "miMATIC",
+    "logo": "https://polygonscan.com/token/images/miMatic_32.png",
+    "name": "Token miMATIC",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x4b54bc363f5f9c6e0fcd82eac6919ae213464cc6": {
+    "symbol": "INSUR",
+    "logo": "https://polygonscan.com/token/images/insurace2_32.png",
+    "name": "InsurAce (PoS)",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x8a0e8b4b0903929f47C3ea30973940D4a9702067":{
+    "symbol": "BTC2x-FLI",
+    "logo": "https://polygonscan.com/token/images/BTC2x-FLI_32.png",
+    "name": "Token BTC 2x Flexible Leverage Index",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xa0e390e9cea0d0e8cd40048ced9fa9ea10d71639": {
+    "symbol": "DSLA",
+    "logo": "https://polygonscan.com/token/images/dsla_32.png",
+    "name": "DSLA",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xB41EC2c036f8a42DA384DDE6ADA79884F8b84b26": {
+    "name":"Tidal Token",
+    "logo":"https://polygonscan.com/token/images/tidaltoken_32.png",
+    "symbol":"TIDAL",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x60bb3d364b765c497c8ce50ae0ae3f0882c5bd05": {
+    "name":"Impermax",
+    "logo":"https://polygonscan.com/token/images/impermax_32.png",
+    "symbol":"IMX",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x09c5a4bca808bd1ba2b8e6b3aaf7442046b4ca5b": {
+    "symbol": "VSP",
+    "logo": "https://polygonscan.com/token/images/vesperfinance_32.png",
+    "name": "Token VesperToken",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x25788a1a171ec66da6502f9975a15b609ff54cf6": {
+    "symbol": "POOL",
+    "logo": "https://polygonscan.com/token/images/pooltogether_32.png",
+    "name": "Token PoolTogether",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xcf32822ff397ef82425153a9dcb726e5ff61dca7": {
+    "symbol": "GMEE",
+    "logo": "https://polygonscan.com/token/images/gameetoken_32.png",
+    "name": "Token GAMEE",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x8c92e38eca8210f4fcbf17f0951b198dd7668292": {
+    "symbol": "DHT",
+    "logo": "https://polygonscan.com/token/images/dHedge_32.png",
+    "name": "Token dHedge DAO Token",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xff88434e29d1e2333ad6baa08d358b436196da6b": {
+    "symbol": "BORING",
+    "logo": "https://polygonscan.com/token/images/BoringDao_32.png",
+    "name": "Token BoringDAO (PoS)",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xd07a7fac2857901e4bec0d89bbdae764723aab86": {
+    "symbol": "USDK",
+    "logo": "https://polygonscan.com/token/images/usdk_32.png",
+    "name": "Token USDK",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x73580a2416a57f1c4b6391dba688a9e4f7dbece0": {
+    "symbol": "POND",
+    "logo": "https://polygonscan.com/token/images/marlinpond_32.png",
+    "name": "Token Marlin POND",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xeAEf6cAf6d5894EDB2D4EA7ec11eC4AB655f1cBF": {
+    "symbol": "PAID",
+    "logo": "https://polygonscan.com/token/images/paidnetwork_32.png",
+    "name": "Token PAID Network",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x65a05db8322701724c197af82c9cae41195b0aa8": {
+    "symbol": "FOX",
+    "logo": "https://polygonscan.com/token/images/fox_32.png",
+    "name": "Token FOX",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xfa1171334cb3a0f0a91e8ca6765f10e9638d1cbf": {
+    "symbol": "FSN",
+    "logo": "https://polygonscan.com/token/images/fusion_28.png",
+    "name": "Token Fusion",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x66e16d50c07a01bb473ec794349d45aa1a0e5dc2": {
+    "symbol": "FOAM",
+    "logo": "https://polygonscan.com/token/images/foam_28.png",
+    "name": "Token FOAM Token",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x08be454de533509e8832b257116c5506e55b0b64": {
+    "symbol": "STND",
+    "logo": "https://polygonscan.com/token/images/standard_32.png",
+    "name": "Token Standard",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xf501dd45a1198c2e1b5aef5314a68b9006d842e0": {
+    "symbol": "MTA",
+    "logo": "https://polygonscan.com/token/images/meta_32.png",
+    "name": "Token Meta",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x054c42b6414747f5263b4a86f21b1afad00326bf": {
+    "symbol": "VGX",
+    "logo": "https://polygonscan.com/token/images/ethos_32.png",
+    "name": "Token Voyager",
+    "decimals": 8,
+    "erc20": true
+  },
+  "0x438b28c5aa5f00a817b7def7ce2fb3d5d1970974": {
+    "name": "Bluzelle",
+    "logo": "https://polygonscan.com/token/images/bluzelle28.png",
+    "symbol": "BLZ",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x1631244689ec1fecbdd22fb5916e920dfc9b8d30": {
+    "name": "OVR",
+    "logo": "https://polygonscan.com/token/images/ovr_32.png",
+    "symbol": "OVR",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xa3ed22eee92a3872709823a6970069e12a4540eb": {
+    "name": "Frontier Token",
+    "logo": "https://polygonscan.com/token/images/Frontier_32.png",
+    "symbol": "FRONT",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xf4310adb83694bc4808e0c5ca8f7027c6127921d": {
+    "name": "Oraichain Token",
+    "logo": "https://polygonscan.com/token/images/oraichaintoken_32.png",
+    "symbol": "ORAI",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x4e92f6f10496f3fcb790cc6969cc15b87c8f9199": {
+    "name": "Pinknode Token",
+    "logo": "https://polygonscan.com/token/images/pinknode_32.png",
+    "symbol": "PNODE",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xf30355ba14b2d3b31597ec71a4542f57e902cb80": {
+    "name": "OCC",
+    "logo": "https://polygonscan.com/token/images/occ_32.png",
+    "symbol": "OCC",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xeab9cfb094db203e6035c2e7268a86debed5bd14": {
+    "name": "Sapien Network",
+    "logo": "https://polygonscan.com/token/images/sapien_28.png",
+    "symbol": "SPN",
+    "decimals": 6,
+    "erc20": true
+  },
+  "0x6ddb31002abc64e1479fc439692f7ea061e78165": {
+    "name": "Furucombo",
+    "logo": "https://polygonscan.com/token/images/furucombo_32.png",
+    "symbol": "COMBO",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x5c2ed810328349100a66b82b78a1791b101c9d61": {
+    "name": "Aave Matic Market WBTC",
+    "logo": "https://polygonscan.com/token/images/amwbt.png",
+    "symbol": "amWBTC",
+    "decimals": 8,
+    "erc20": true
+  },
+  "0x4c4bf319237d98a30a929a96112effa8da3510eb": {
+    "name": "WaultSwap Polygon",
+    "logo": "https://polygonscan.com/token/images/waultswap_32.png",
+    "symbol": "WEXpoly",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x7c28f627ea3aec8b882b51eb1935f66e5b875714": {
+    "name": "Paint",
+    "logo": "https://polygonscan.com/token/images/paint_32.png",
+    "symbol": "PAINT",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xe7f960685aba7327ada3b161ea252703c87be0bf": {
+    "name": "Ethereum Blue",
+    "logo": "https://polygonscan.com/token/images/etherblue_28.png",
+    "symbol": "BLUE",
+    "decimals": 8,
+    "erc20": true
+  },
+  "0xede1b77c0ccc45bfa949636757cd2ca7ef30137f": {
+    "name": "Wrapped Filecoin (PoS)",
+    "logo": "https://polygonscan.com/token/images/wrappedfil_32.png",
+    "symbol": "WFIL",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xd1e6354fb05bf72a8909266203dab80947dceccf": {
+    "name": "Cryption Network Token",
+    "logo": "https://polygonscan.com/token/images/cryptionnetwork_32.png",
+    "symbol": "CNT",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x103308793661879166464cd0d0370ac3b8a2a1cb": {
+    "name": "YOP",
+    "logo": "https://polygonscan.com/token/images/yop_32.png",
+    "symbol": "YOP",
+    "decimals": 8,
+    "erc20": true
+  },
+  "0x8ba941b64901e306667a287a370f145d98811096": {
+    "name": "ClinTex",
+    "logo": "https://polygonscan.com/token/images/clintex_32.png",
+    "symbol": "CTI",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x0e0ffc562d72316b783e887bbaae1fd794adb530": {
+    "name": "DOVU",
+    "logo": "https://polygonscan.com/token/images/dovu_32.png",
+    "symbol": "DOV",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xbbbe128568222623d21299f019a978c8587b33dc": {
+    "name": "StakeWise",
+    "logo": "https://polygonscan.com/token/images/stakewise_32.png",
+    "symbol": "SWISE",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x990f860968714c2d16e91ec0cd9709a94264cf64": {
+    "name": "PieDAO DOUGH v2",
+    "logo": "https://polygonscan.com/token/images/piedao_32.png",
+    "symbol": "DOUGH",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xcfe2cf35d2bdde84967e67d00ad74237e234ce59": {
+    "name": "Pup Token",
+    "logo": "https://polygonscan.com/token/images/polypup-pup_32.png",
+    "symbol": "PUP",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619": {
+    "name": "Wrapped Ether",
+    "logo": "https://polygonscan.com/token/images/wETH_32.png",
+    "symbol": "WETH",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xde799636af0d8d65a17aaa83b66cbbe9b185eb01": {
+    "name": "INVERSE",
+    "logo": "https://polygonscan.com/token/images/projectinverse_32.png",
+    "symbol": "XIV",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x22308317a4aa9e8196065e0b3647e582d44c4d7b": {
+    "name": "xToken",
+    "logo": "https://polygonscan.com/token/images/xtoken_32.png",
+    "symbol": "XTK",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xfce22ad802bbc9fe74534575b166d06198bd66ea": {
+    "name": "Woofy",
+    "logo": "https://polygonscan.com/token/images/woofy_32.png",
+    "symbol": "WOOFY",
+    "decimals": 12,
+    "erc20": true
+  },
+  "0x7b367a058f370c0057762280547d0b974cf3ac10": {
+    "name": "PAR Stablecoin",
+    "logo": "https://polygonscan.com/token/images/parstablecoin_32.png",
+    "symbol": "PAR",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x89c296be2f904f3e99a6125815b4b78f5388d2dd": {
+    "name": "RipioCreditNetwork",
+    "logo": "https://polygonscan.com/token/images/ripio_28_2.png",
+    "symbol": "RCN",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x6fb54ffe60386ac33b722be13d2549dd87bf63af": {
+    "name": "Polinate (PoS)",
+    "logo": "https://polygonscan.com/token/images/polinatefi_32.png",
+    "symbol": "POLI",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x28424507fefb6f7f8e9d3860f56504e4e5f5f390": {
+    "name": "Aave Matic Market WETH",
+    "logo": "https://polygonscan.com/token/images/amweth.png",
+    "symbol": "amWETH",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x4ba47b10ea8f544f8969ba61df3e5be67692a122": {
+    "name": "UNIFUND",
+    "logo": "https://polygonscan.com/token/images/unifund_32.png",
+    "symbol": "iFUND",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x127984b5e6d5c59f81dacc9f1c8b3bdc8494572e": {
+    "name": "Pepedex",
+    "logo": "https://polygonscan.com/token/images/pepedex_32.png",
+    "symbol": "PPDEX",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x1ac417f1dd23504aac2076d854581f03196403fd": {
+    "name": "Endor Protocol Token",
+    "logo": "https://polygonscan.com/token/images/endor_28.png",
+    "symbol": "EDR",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xe64106154816a252da7728e35a0060f15d66cb34": {
+    "name": "Internxt",
+    "logo": "https://polygonscan.com/token/images/internxt_32.png",
+    "symbol": "INXT",
+    "decimals": 8,
+    "erc20": true
+  },
+  "0xf89250e83fa2f33058385c98c7c44e723b040359": {
+    "name": "HASHGARD",
+    "logo": "https://polygonscan.com/token/images/hashgard1_28.png",
+    "symbol": "GARD",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xcbab27b2d5b468eea509bd430100922341bc3f1a": {
+    "name": "WePower",
+    "logo": "https://polygonscan.com/token/images/wepower_28.png",
+    "symbol": "WPR",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x5df1a47e05b4caba0ed3df13662642f05314764d": {
+    "name": "https://unimex.network/",
+    "logo": "https://polygonscan.com/token/images/unimex_32.png",
+    "symbol": "UMX",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x874e178a2f3f3f9d34db862453cd756e7eab0381": {
+    "name": "Gravity Finance",
+    "logo": "https://polygonscan.com/token/images/gravityfinance_32.png",
+    "symbol": "GFI",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x580a84c73811e1839f75d86d75d88cca0c241ff4": {
+    "name": "Qi Dao",
+    "logo": "https://polygonscan.com/token/images/qidao_32.png",
+    "symbol": "QI",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x0f40d69ff494a9e74b1f20a89eff299b2a05918f": {
+    "name": "Bounty0x",
+    "logo": "https://polygonscan.com/token/images/bounty0x.png",
+    "symbol": "BNTY",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x521cddc0cba84f14c69c1e99249f781aa73ee0bc": {
+    "name": "Mover",
+    "logo": "https://polygonscan.com/token/images/movertoken_32.png",
+    "symbol": "MOVE",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x428360b02c1269bc1c79fbc399ad31d58c1e8fda": {
+    "name": "Digital Fitness",
+    "logo": "https://polygonscan.com/token/images/digitalfitness_32.png",
+    "symbol": "DEFIT",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x106035dedca635d75d6ff05f98f25916829edb77": {
+    "name": "NapoleonX",
+    "logo": "https://polygonscan.com/token/images/napoleonx_28_2.png",
+    "symbol": "NPX",
+    "decimals": 2,
+    "erc20": true
+  },
+  "0xd6a5ab46ead26f49b03bbb1f9eb1ad5c1767974a": {
+    "name": "EthermonToken",
+    "logo": "https://polygonscan.com/token/images/ethermontoken2_32.png",
+    "symbol": "EMON",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xce829a89d4a55a63418bcc43f00145adef0edb8e": {
+    "name": "renDOGE",
+    "logo": "https://polygonscan.com/token/images/rendogecoin_32.png",
+    "symbol": "renDOGE",
+    "decimals": 8,
+    "erc20": true
+  },
+  "0x7dc0cb65ec6019330a6841e9c274f2ee57a6ca6c": {
+    "name": "Pluton",
+    "logo": "https://polygonscan.com/token/images/pluton.png",
+    "symbol": "PLU",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xc4ace9278e7e01755b670c0838c3106367639962": {
+    "name": "renFIL",
+    "logo": "https://polygonscan.com/token/images/renfilecoin_32.png",
+    "symbol": "renFIL",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xcde5e3d90631cacb842fa86f62dd0fc08a3ce43d": {
+    "name": "BAC",
+    "logo": "https://polygonscan.com/token/images/basiscash_32.png",
+    "symbol": "BAC",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x46d502fac9aea7c5bc7b13c8ec9d02378c33d36f": {
+    "name": "WolfSafePoorPeople",
+    "logo": "https://polygonscan.com/token/images/wolfsafepoorpeople_32.png",
+    "symbol": "WSPP",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x733726968ae55dc58c26dbdc193fea256a704ba4": {
+    "name": "Grumpy Cat",
+    "logo": "https://polygonscan.com/token/images/grumpycat_32.png",
+    "symbol": "GRUMPY",
+    "decimals": 9,
+    "erc20": true
+  },
+  "0xccbe9b810d6574701d324fd6dbe0a1b68f9d5bf7": {
+    "name": "Stacker Ventures Token (PoS)",
+    "logo": "https://polygonscan.com/token/images/stacker_32.png",
+    "symbol": "STACK",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x65DfA90171e1bd9060209405026C4E1f4A8E58df": {
+    "name": "Oiler",
+    "logo": "https://polygonscan.com/token/images/oiler_32.png",
+    "symbol": "OIL",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x596ebe76e2db4470966ea395b0d063ac6197a8c5": {
+    "name": "Jarvis Reward Token",
+    "logo": "https://polygonscan.com/token/images/jarvis_28.png",
+    "symbol": "JRT",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xa8fcee762642f156b5d757b6fabc36e06b6d4a1a": {
+    "name": "Aluna",
+    "logo": "https://polygonscan.com/token/images/aluna_32.png",
+    "symbol": "ALN",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x10635bf5c17f5e4c0ed9012aef7c12f96a57a4dd": {
+    "name": "Tapmydata",
+    "logo": "https://polygonscan.com/token/images/tapmydatatoken_32.png",
+    "symbol": "TAP",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xf28164a485b0b2c90639e47b0f377b4a438a16b1": {
+    "name": "Dragon QUICK",
+    "logo": "https://polygonscan.com/token/images/dragonquick_32.png",
+    "symbol": "dQUICK",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x0000000000004946c0e9f43f4dee607b0ef1fa1c": {
+    "name": "Chi Gastoken by 1inch",
+    "logo": "https://polygonscan.com/token/images/chi_1inch_32.png",
+    "symbol": "CHI",
+    "decimals": 0,
+    "erc20": true
+  },
+  "0x1d2a0e5ec8e5bbdca5cb219e649b565d8e5c3360": {
+    "name": "Aave Matic Market AAVE",
+    "logo": "https://polygonscan.com/token/images/amaave.png",
+    "symbol": "amAAVE",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xf4b0903774532aee5ee567c02aab681a81539e92": {
+    "name": "PolyGaj Token",
+    "logo": "https://polygonscan.com/token/images/polygaj_32.png",
+    "symbol": "GAJ",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x4c16f69302ccb511c5fac682c7626b9ef0dc126a": {
+    "name": "Polygon BUNNY Token",
+    "logo": "https://polygonscan.com/token/images/polygonbunnytoken_32.png",
+    "symbol": "polyBUNNY",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x8df3aad3a84da6b69a4da8aec3ea40d9091b2ac4": {
+    "name": "Aave Matic Market WMATIC",
+    "logo": "https://polygonscan.com/token/images/amwmatic.png",
+    "symbol": "amWMATIC",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x3a3df212b7aa91aa0402b9035b098891d276572b": {
+    "name": "Fish",
+    "logo": "https://polygonscan.com/token/images/polycat_32.png",
+    "symbol": "FISH",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xc3fdbadc7c795ef1d6ba111e06ff8f16a20ea539": {
+    "name": "Adamant",
+    "logo": "https://polygonscan.com/token/images/adamant_32.png",
+    "symbol": "ADDY",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x76e63a3E7Ba1e2E61D3DA86a87479f983dE89a7E": {
+    "name": "Augury Finance",
+    "logo": "https://polygonscan.com/token/images/augury_32.png",
+    "symbol": "OMEN",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x80244c2441779361f35803b8c711c6c8fc6054a3": {
+    "name": "Bone Token",
+    "logo": "https://polygonscan.com/token/images/boneswap_32.png",
+    "symbol": "BONE",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xc56d17dd519e5eb43a19c9759b5d5372115220bd": {
+    "name": "Polywolf",
+    "logo": "https://polygonscan.com/token/images/moonwolf-moon_32.png",
+    "symbol": "MOON",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xb6f10be9201fb110b3aa275267a234e84ade8e95": {
+    "name": "onG",
+    "logo": "https://polygonscan.com/token/images/ong_32.png",
+    "symbol": "ONG",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xd0f3121a190d85de0ab6131f2bcecdbfcfb38891": {
+    "name": "PolyYeld Token",
+    "logo": "https://polygonscan.com/token/images/polyyeld_32.png",
+    "symbol": "YELD",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x9719d867a500ef117cc201206b8ab51e794d3f82": {
+    "name": "Matic Aave interest bearing USDC",
+    "logo": "https://polygonscan.com/token/images/maUSDC_32.png",
+    "symbol": "maUSDC",
+    "decimals": 6,
+    "erc20": true
+  },
+  "0x4e3decbb3645551b8a19f0ea1678079fcb33fb4c": {
+    "name": "Jarvis Synthetic Euro",
+    "logo": "https://polygonscan.com/token/images/jarvissyntheticeuro_32.png",
+    "symbol": "jEUR",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x2953399124f0cbb46d2cbacd8a89cf0599974963": {
+    "name": "OpenSea Collections",
+    "logo": "https://polygonscan.com/token/images/opensea_32.png",
+    "symbol": "OPENSTORE",
+    "decimals": 0,
+    "erc20": true
+  },
+  "0x9af3b7dc29d3c4b1a5731408b6a9656fa7ac3b72": {
+    "name": "PUSD",
+    "logo": "https://polygonscan.com/token/images/polyquity-pusd_32.png",
+    "symbol": "PUSD",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xe9993763e0b7f7d915a62a5f22a6e151f91d98a8": {
+    "name": "TORG (PoS)",
+    "logo": "https://polygonscan.com/token/images/torg_32.png",
+    "symbol": "TORG",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x66c59dded4ef01a3412a8b019b6e41d4a8c49a35": {
+    "name": "SafeDollar.Fi Dollar 2.0",
+    "logo": "https://polygonscan.com/token/images/safedollar_32.png",
+    "symbol": "SDO",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x27f8d03b3a2196956ed754badc28d73be8830a6e": {
+    "name": "Aave Matic Market DAI",
+    "logo": "https://polygonscan.com/token/images/amdai.png",
+    "symbol": "amDAI",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x60d55f02a771d515e077c9c2403a1ef324885cec": {
+    "name": "Aave Matic Market USDT",
+    "logo": "https://polygonscan.com/token/images/amusdt.png",
+    "symbol": "amUSDT",
+    "decimals": 6,
+    "erc20": true
+  },
+  "0x1a13f4ca1d028320a707d99520abfefca3998b7f": {
+    "name": "Aave Matic Market USDC",
+    "logo": "https://polygonscan.com/token/images/amusdc.png",
+    "symbol": "amUSDC",
+    "decimals": 6,
+    "erc20": true
+  },
+  "0x3642c3c8ebe0b36a29e37809e1c9a7de06bc0b26": {
+    "name": "MaticLaunch",
+    "logo": "https://polygonscan.com/token/images/maticlaunch_32.png",
+    "symbol": "MTCL",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x23d29d30e35c5e8d321e1dc9a8a61bfd846d4c5c": {
+    "name": "HEX",
+    "logo": "https://polygonscan.com/token/images/hex_32.png",
+    "symbol": "HEX",
+    "decimals": 8,
+    "erc20": true
+  },
+  "0x71b821aa52a49f32eed535fca6eb5aa130085978": {
+    "name": "0xBitcoin Token",
+    "logo": "https://polygonscan.com/token/images/0xbitcoin_32.png",
+    "symbol": "0xBTC",
+    "decimals": 8,
+    "erc20": true
+  },
+  "0x767058F11800FBA6A682E73A6e79ec5eB74Fac8c": {
+    "name": "Jarvis Synthetic British Pound",
+    "logo": "https://polygonscan.com/token/images/jarvissyntheticbritishpound_32.png",
+    "symbol": "jGBP",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x5a3064cbdccf428ae907796cf6ad5a664cd7f3d8": {
+    "name": "PYQ",
+    "logo": "https://polygonscan.com/token/images/polyquity-pyq_32.png",
+    "symbol": "PYQ",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xb82a20b4522680951f11c94c54b8800c1c237693": {
+    "name": "HONOR",
+    "logo": "https://polygonscan.com/token/images/honor_32.png",
+    "symbol": "HONOR",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xc68e83a305b0fad69e264a1769a0a070f190d2d6": {
+    "name": "Polyroll Token",
+    "logo": "https://polygonscan.com/token/images/polyroll_32.png",
+    "symbol": "ROLL",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270": {
+    "name": "Wrapped Matic",
+    "logo": "https://polygonscan.com/token/images/wMatic_32.png",
+    "symbol": "WMATIC",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xc30dd0cce2e683aa68c87c280e73beb3dec9b3ba": {
+    "name": "Wrapped Celo",
+    "logo": "https://polygonscan.com/token/images/wrappedcelo_32.png",
+    "symbol": "wCELO",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xab72ee159ff70b64beecbbb0fbbe58b372391c54": {
+    "name": "SafeDollar.Fi Share 2.0",
+    "logo": "https://polygonscan.com/token/images/safedollarfishare_32.png",
+    "symbol": "SDS",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x6bb45ceac714c52342ef73ec663479da35934bf7": {
+    "name": "Bone Token",
+    "logo": "https://polygonscan.com/token/images/polypup-bone_32.png",
+    "symbol": "BONE",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x05089c9ebffa4f0aca269e32056b1b36b37ed71b": {
+    "name": "Krill",
+    "logo": "https://polygonscan.com/token/images/krill_32.png",
+    "symbol": "Krill",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x1132f58810ee9ff13e97aeccd8dda688cc5eb8f4": {
+    "name": "SpaceRat",
+    "logo": "https://polygonscan.com/token/images/spacerat_32.png",
+    "symbol": "SRAT",
+    "decimals": 9,
+    "erc20": true
+  },
+  "0x845e76a8691423fbc4ecb8dd77556cb61c09ee25": {
+    "name": "JetSwap Polygon Token",
+    "logo": "https://polygonscan.com/token/images/jetswappoly_32.png",
+    "symbol": "pWINGS",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x8f18dc399594b451eda8c5da02d0563c0b2d0f16": {
+    "name": "moonwolf.io",
+    "logo": "https://polygonscan.com/token/images/moonwolf-wolf_32.png",
+    "symbol": "WOLF",
+    "decimals": 9,
+    "erc20": true
+  },
+  "0xaaa5b9e6c589642f98a1cda99b9d024b8407285a": {
+    "name": "IRON Titanium Token",
+    "logo": "https://polygonscan.com/token/images/titan_32.png",
+    "symbol": "TITAN",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0x4a81f8796e0c6ad4877a51c86693b0de8093f2ef": {
+    "name": "Iron Finance ICE Token",
+    "logo": "https://polygonscan.com/token/images/ironfinanceicetoken_32.png",
+    "symbol": "ICE",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xfdc26cda2d2440d0e83cd1dee8e8be48405806dc": {
+    "name": "BTU Protocol",
+    "logo": "https://polygonscan.com/token/images/btu_28.png",
+    "symbol": "BTU",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xbD1463F02f61676d53fd183C2B19282BFF93D099": {
+    "name": "Jarvis Synthetic Swiss Franc",
+    "logo": "https://polygonscan.com/token/images/jarvissyntheticswissfranc_32.png",
+    "symbol": "jCHF",
+    "decimals": 18,
+    "erc20": true
+  },
+  "0xd86b5923f3ad7b585ed81b448170ae026c65ae9a": {
+    "name": "IRON Stablecoin",
+    "logo": "https://polygonscan.com/token/images/iron_32.png",
+    "symbol": "IRON",
+    "decimals": 18,
+    "erc20": true
+  }
 }
